@@ -1,4 +1,4 @@
-# Innoquint Solutions - Corporate Web Portal
+# Innoquint Solutions - Web Portal
 
 ![Innoquint Solutions Logo](logo.png)
 
