@@ -3,7 +3,7 @@
 ![Innoquint Solutions Logo](logo.png)
 
 ## 🌐 Project Overview
-Innoquint Solutions is a high-end website designed for a tech-forward global firm. The platform serves as a digital headquarters, emphasizing innovation, connectivity, and stakeholder transparency. 
+Innoquint Solutions web portal is a high-end website designed for a tech-forward global firm. The platform serves as a digital headquarters, emphasizing innovation, connectivity, and stakeholder transparency. 
 
 The interface is meticulously tuned to the brand's visual identity, utilizing a sophisticated palette of **Deep Cobalt Blue** and **Vibrant Emerald Green**.
 
